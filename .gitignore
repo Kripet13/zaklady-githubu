@@ -1,0 +1,11 @@
+# OS soubory
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# Dočasné soubory
+*.log
+*.tmp
